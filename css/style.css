@@ -1,0 +1,50 @@
+.card{
+    display: block;
+    margin: auto;
+    margin-top: 5rem;
+
+
+}
+
+.card-header{
+    width: 20rem; 
+    height: 30rem;
+}
+
+
+.outer {
+    width: 20rem;
+    height: 30rem;
+}
+.outer img {
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+
+.mainimg{
+    max-width:100%;
+    max-height:100%;
+}
+
+
+.card-block{
+    margin: auto;
+    margin-left: 1rem;
+}
+
+::placeholder{
+    font-size: 0.8rem;
+}
+
+.fp{
+    text-align: center;
+    font-size: 0.7rem;
+    color: #287AF5;
+    font-family: sans-serif;
+    margin-top:1rem;
+}
+
+.card-title{
+    font-size: 1.3rem;
+    margin-top: 2rem;
+}
